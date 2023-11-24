@@ -1,0 +1,13 @@
+CREATE SEQUENCE articlesequence
+    INCREMENT 1
+    MINVALUE 1
+    START 1
+    CYCLE
+;
+
+CREATE SEQUENCE ventesequence
+    INCREMENT 1
+    MINVALUE 1
+    START 1
+    CYCLE
+;
